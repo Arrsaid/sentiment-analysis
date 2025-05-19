@@ -4,3 +4,4 @@ pandas
 uvicorn[standard]
 gunicorn
 pydantic
+nltk
