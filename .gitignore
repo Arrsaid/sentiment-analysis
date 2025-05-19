@@ -1,0 +1,13 @@
+# dossiers
+__pycache__/
+.pytest_cache/
+mlruns/
+data/
+
+# notebooks
+*.ipynb
+
+# python
+app.py
+test_api.py
+
