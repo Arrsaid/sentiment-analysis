@@ -22,6 +22,9 @@ jobs:
       run: |
         pip install --upgrade pip
         pip install -r requirements.txt
+    
+    - name: Run Pytest
+      run: pytest test_api.py
 
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
