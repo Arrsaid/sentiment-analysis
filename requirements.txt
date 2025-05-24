@@ -1,9 +1,9 @@
-fastapi
-scikit-learn
+fastapi=0.115.12
+scikit-learn=1.6.1
+nltk=3.9.1
+pytest=8.3.5
+httpx
 pandas
 uvicorn[standard]
 gunicorn
 pydantic
-nltk
-pytest
-httpx
