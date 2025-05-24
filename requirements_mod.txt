@@ -1,0 +1,8 @@
+python==3.11
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+scikit-learn==1.6.1
+nltk==3.9.1
+tensorflow==2.18.0
+trensformers==4.51.0

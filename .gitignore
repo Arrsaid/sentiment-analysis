@@ -5,8 +5,7 @@ mlruns/
 data/
 
 # notebooks
-*.ipynb
 
 # python
-app.py
+# app.py
 
