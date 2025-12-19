@@ -1,7 +1,9 @@
 # Prédiction de sentiment sur Twitter – Projet Air Paradis
 
 ## Objectif du projet
-Ce projet a été réalisé dans le cadre d’une mission chez MIC (Marketing Intelligence Consulting) pour le client Air Paradis. L’objectif est de développer un prototype d’intelligence artificielle capable de prédire le sentiment (positif ou négatif) d’un tweet, afin d’anticiper les bad buzz sur les réseaux sociaux.
+Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms. Il s’agit d’un projet fictif, basé sur une mission simulée pour l’entreprise MIC (Marketing Intelligence Consulting) et son client Air Paradis.
+
+L’objectif est de développer un prototype d’intelligence artificielle capable de prédire le sentiment (positif ou négatif) d’un tweet, afin d’anticiper les risques de bad buzz sur les réseaux sociaux.
 
 ## Contenu du projet
 Le projet est organisé comme suit :
